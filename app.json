@@ -3,7 +3,7 @@
   "description": "Sample NodeJS Express",
   "repository": "https://github.com/xjsender/express-blog",
   "website": "https://github.com/xjsender",
-  "logo": "",
+  "logo": "https://avatars3.githubusercontent.com/u/1450977?v=3&s=40",
   "keywords": ["node", "blog", "express"],
   "env": {}
 }
