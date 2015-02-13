@@ -1,0 +1,9 @@
+{
+  "name": "NodeJS Express",
+  "description": "Sample NodeJS Express",
+  "repository": "https://github.com/xjsender/express-blog",
+  "website": "https://github.com/xjsender",
+  "logo": "",
+  "keywords": ["node", "blog", "express"],
+  "env": {}
+}
